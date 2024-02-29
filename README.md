@@ -15,21 +15,13 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
 
-Welcome to the Crypto Tax Calculator – your go-to tool for accurately calculating crypto taxes across various countries. This responsive React application is designed to simplify the complex world of cryptocurrency taxation, providing users with a user-friendly interface to calculate taxes based on their crypto transactions.
 
 ## Features
 
 - List key features of your project.
-- Responsive DesignMulti-Country Support
 - Real-Time Updates
 - User-Friendly Interface
-
-## Getting Started
-
-git lnk  https:https://github.com/tripathismt/koinx_Assesment_frontend
-cd your-project
 
 
 
