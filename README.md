@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-# deployment link -[ https://koinx-assesment-frontend.vercel.app/](https://koinx-assesment-frontend-main.vercel.app/)
+# deployment link - https://vercel.com/shubham-mani-tripathis-projects/koinx-assesment-frontend-2
 
 
 # Koinx Frontend Assesment
